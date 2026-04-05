@@ -1,0 +1,2 @@
+# RobotArmV3
+This repository contains plans for a 6 DOF robotarm. This includes the STL files of the hardware, aswell as the software ran by the arm and the transmitter.
