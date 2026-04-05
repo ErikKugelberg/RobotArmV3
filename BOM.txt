@@ -1,0 +1,8 @@
+BOM:
+Microcontrollers:	2x ESP32 Wroom, 1x Arduino UNO	
+5v regulator: 		1x NID100-5
+Stepper Motors:		3x Nema 17
+Large Servo:		1x Modelcraft RS-10
+Small Servos:		2x Modelcraft mc 410
+Large Stepper Drive:1x TB6600
+Small Stepper Drive:2x A4988
